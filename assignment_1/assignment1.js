@@ -1,5 +1,5 @@
 /*
-Exercise #1
+Exercise #12
 Initialize an empty array below in the variable numbers.
 */
 var numbers = [];
